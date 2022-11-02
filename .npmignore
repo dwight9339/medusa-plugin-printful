@@ -1,0 +1,17 @@
+/lib
+node_modules
+.DS_store
+.env*
+/*.js
+!index.js
+yarn.lock
+src
+.gitignore
+.babelrc
+/.github
+__data__
+__tests__
+__mocks__
+coverage
+/.circleci
+/.idea
